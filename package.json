@@ -1,0 +1,30 @@
+{
+  "name": "hw-18sociallyadept",
+  "version": "1.0.0",
+  "description": "- The purpose of this project is to practice with data and structuring an API\r - Building a web app to share thoughts and react to friends' thoughts and create a fiend list\r - This will help me solve some problems i have working with data and building tables. \r - What did you learn?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server",
+    "dev": "nodemon server",
+    "seed": "node utils/seed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aestheticfoliage/hw-18sociallyadept.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aestheticfoliage/hw-18sociallyadept/issues"
+  },
+  "homepage": "https://github.com/Aestheticfoliage/hw-18sociallyadept#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^4.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
