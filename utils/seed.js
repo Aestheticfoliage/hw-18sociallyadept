@@ -74,7 +74,7 @@ const names = [
     'Parker',
   ];
   
-  const comments = [
+  const Thoughts = [
     'Decision Trackers are awesome',
     'Find My Phone is a useful app',
     'Learn Piano is not very good for learning Piano',
